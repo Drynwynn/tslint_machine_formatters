@@ -1,0 +1,26 @@
+{
+  "name": "tslint_machine_formatters",
+  "version": "0.0.1",
+  "description": "Formatters for TSLint that provide all info in machine and/or regex parsable formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drynwynn/tslint_machine_formatters.git"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "Drynwynn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drynwynn/tslint_machine_formatters/issues"
+  },
+  "homepage": "https://github.com/Drynwynn/tslint_machine_formatters#readme",
+  "dependencies": {
+    "tslint": "^4.4.2",
+    "typescript": "^2.1.6"
+  }
+}
