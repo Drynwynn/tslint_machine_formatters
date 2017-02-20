@@ -1,6 +1,6 @@
 {
   "name": "tslint_machine_formatters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Formatters for TSLint that provide all info in machine and/or regex parsable formats",
   "main": "index.js",
   "scripts": {
